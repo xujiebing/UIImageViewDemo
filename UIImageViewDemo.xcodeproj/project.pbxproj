@@ -15,6 +15,16 @@
 		9B5E693A2084EC4A001DA29C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E69392084EC4A001DA29C /* main.m */; };
 		9B5E69442084EC4A001DA29C /* UIImageViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E69432084EC4A001DA29C /* UIImageViewDemoTests.m */; };
 		9B5E694F2084EC4A001DA29C /* UIImageViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E694E2084EC4A001DA29C /* UIImageViewDemoUITests.m */; };
+		9B5E695D2084ED52001DA29C /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5E695C2084ED52001DA29C /* image1.png */; };
+		9B5E69602084EE73001DA29C /* ContentModelTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E695F2084EE73001DA29C /* ContentModelTableViewController.m */; };
+		9B5E69632084F2AC001DA29C /* ContentModelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E69622084F2AC001DA29C /* ContentModelViewController.m */; };
+		9B5E69652084F657001DA29C /* audi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B5E69642084F657001DA29C /* audi.jpg */; };
+		9B5E69682084FA7C001DA29C /* CutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E69672084FA7C001DA29C /* CutViewController.m */; };
+		9B5E696B2084FDA5001DA29C /* ResizableTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E696A2084FDA5001DA29C /* ResizableTableViewController.m */; };
+		9B5E696E2084FDBD001DA29C /* ResizableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E696D2084FDBD001DA29C /* ResizableViewController.m */; };
+		9B5E69B920863842001DA29C /* yuechongzhi_select@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5E69B720863841001DA29C /* yuechongzhi_select@2x.png */; };
+		9B5E69BA20863842001DA29C /* yuechongzhi_select@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5E69B820863841001DA29C /* yuechongzhi_select@3x.png */; };
+		9B5E69BD208638EC001DA29C /* ButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E69BC208638EC001DA29C /* ButtonViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,22 @@
 		9B5E694A2084EC4A001DA29C /* UIImageViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIImageViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B5E694E2084EC4A001DA29C /* UIImageViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIImageViewDemoUITests.m; sourceTree = "<group>"; };
 		9B5E69502084EC4A001DA29C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5E695C2084ED52001DA29C /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		9B5E695E2084EE73001DA29C /* ContentModelTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContentModelTableViewController.h; sourceTree = "<group>"; };
+		9B5E695F2084EE73001DA29C /* ContentModelTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContentModelTableViewController.m; sourceTree = "<group>"; };
+		9B5E69612084F2AC001DA29C /* ContentModelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContentModelViewController.h; sourceTree = "<group>"; };
+		9B5E69622084F2AC001DA29C /* ContentModelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContentModelViewController.m; sourceTree = "<group>"; };
+		9B5E69642084F657001DA29C /* audi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = audi.jpg; sourceTree = "<group>"; };
+		9B5E69662084FA7C001DA29C /* CutViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CutViewController.h; sourceTree = "<group>"; };
+		9B5E69672084FA7C001DA29C /* CutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CutViewController.m; sourceTree = "<group>"; };
+		9B5E69692084FDA5001DA29C /* ResizableTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ResizableTableViewController.h; sourceTree = "<group>"; };
+		9B5E696A2084FDA5001DA29C /* ResizableTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ResizableTableViewController.m; sourceTree = "<group>"; };
+		9B5E696C2084FDBD001DA29C /* ResizableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ResizableViewController.h; sourceTree = "<group>"; };
+		9B5E696D2084FDBD001DA29C /* ResizableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ResizableViewController.m; sourceTree = "<group>"; };
+		9B5E69B720863841001DA29C /* yuechongzhi_select@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuechongzhi_select@2x.png"; sourceTree = "<group>"; };
+		9B5E69B820863841001DA29C /* yuechongzhi_select@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuechongzhi_select@3x.png"; sourceTree = "<group>"; };
+		9B5E69BB208638EC001DA29C /* ButtonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ButtonViewController.h; sourceTree = "<group>"; };
+		9B5E69BC208638EC001DA29C /* ButtonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ButtonViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +131,22 @@
 				9B5E692B2084EC49001DA29C /* AppDelegate.m */,
 				9B5E692D2084EC49001DA29C /* ViewController.h */,
 				9B5E692E2084EC49001DA29C /* ViewController.m */,
+				9B5E695E2084EE73001DA29C /* ContentModelTableViewController.h */,
+				9B5E695F2084EE73001DA29C /* ContentModelTableViewController.m */,
+				9B5E69612084F2AC001DA29C /* ContentModelViewController.h */,
+				9B5E69622084F2AC001DA29C /* ContentModelViewController.m */,
+				9B5E69662084FA7C001DA29C /* CutViewController.h */,
+				9B5E69672084FA7C001DA29C /* CutViewController.m */,
+				9B5E69692084FDA5001DA29C /* ResizableTableViewController.h */,
+				9B5E696A2084FDA5001DA29C /* ResizableTableViewController.m */,
+				9B5E696C2084FDBD001DA29C /* ResizableViewController.h */,
+				9B5E696D2084FDBD001DA29C /* ResizableViewController.m */,
+				9B5E69BB208638EC001DA29C /* ButtonViewController.h */,
+				9B5E69BC208638EC001DA29C /* ButtonViewController.m */,
+				9B5E695C2084ED52001DA29C /* image1.png */,
+				9B5E69642084F657001DA29C /* audi.jpg */,
+				9B5E69B720863841001DA29C /* yuechongzhi_select@2x.png */,
+				9B5E69B820863841001DA29C /* yuechongzhi_select@3x.png */,
 				9B5E69302084EC49001DA29C /* Main.storyboard */,
 				9B5E69332084EC49001DA29C /* Assets.xcassets */,
 				9B5E69352084EC49001DA29C /* LaunchScreen.storyboard */,
@@ -238,8 +280,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B5E69B920863842001DA29C /* yuechongzhi_select@2x.png in Resources */,
+				9B5E695D2084ED52001DA29C /* image1.png in Resources */,
 				9B5E69372084EC49001DA29C /* LaunchScreen.storyboard in Resources */,
 				9B5E69342084EC49001DA29C /* Assets.xcassets in Resources */,
+				9B5E69BA20863842001DA29C /* yuechongzhi_select@3x.png in Resources */,
+				9B5E69652084F657001DA29C /* audi.jpg in Resources */,
 				9B5E69322084EC49001DA29C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,9 +311,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B5E69632084F2AC001DA29C /* ContentModelViewController.m in Sources */,
 				9B5E692F2084EC49001DA29C /* ViewController.m in Sources */,
 				9B5E693A2084EC4A001DA29C /* main.m in Sources */,
+				9B5E69602084EE73001DA29C /* ContentModelTableViewController.m in Sources */,
+				9B5E69BD208638EC001DA29C /* ButtonViewController.m in Sources */,
+				9B5E696E2084FDBD001DA29C /* ResizableViewController.m in Sources */,
+				9B5E696B2084FDA5001DA29C /* ResizableTableViewController.m in Sources */,
 				9B5E692C2084EC49001DA29C /* AppDelegate.m in Sources */,
+				9B5E69682084FA7C001DA29C /* CutViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

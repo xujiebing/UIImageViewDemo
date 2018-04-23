@@ -7,6 +7,9 @@
 //
 
 #import "ViewController.h"
+#import "ContentModelTableViewController.h"
+#import "CutViewController.h"
+#import "ResizableTableViewController.h"
 
 @interface ViewController ()
 
@@ -19,11 +22,16 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (IBAction)p_contentModel:(id)sender {
+    [self.navigationController pushViewController:[ContentModelTableViewController new] animated:YES];
 }
 
+- (IBAction)p_cutImage:(id)sender {
+    [self.navigationController pushViewController:[CutViewController new] animated:YES];
+}
+
+- (IBAction)p_resizableImage:(id)sender {
+    [self.navigationController pushViewController:[ResizableTableViewController new] animated:YES];
+}
 
 @end
